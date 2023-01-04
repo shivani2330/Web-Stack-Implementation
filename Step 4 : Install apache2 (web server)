@@ -1,0 +1,11 @@
+1. sudo apt update // to update the packages
+
+2. sudo apt install apache2 
+
+3. sudo systemctl status apache2 
+
+4. We need to configure inbound rule for port 80 (To recieve traffic from our web server)
+
+5. 0.0.0. means from any IP address
+
+6. 
