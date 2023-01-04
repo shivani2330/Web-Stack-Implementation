@@ -1,0 +1,8 @@
+1. sudo mkdir /var/www/project
+2.Assigning ownership of the directory with the current user
+
+sudo chown -R $USER:$USER /var/www/project
+
+3. create and open new apache configuration file
+
+sudo vi /etc/apache2/site-available/project.conf
