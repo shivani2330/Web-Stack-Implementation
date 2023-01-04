@@ -1,3 +1,10 @@
 1. Create an AWS account 
 
-2. 
+2. Created a security group enabling the inbound traffic for anywhere as of now
+
+3. Launched an EC2 unbuntu instance
+
+4. Logged in into the EC2 instance
+
+5. ssh -i "devops.pem" ************
+
