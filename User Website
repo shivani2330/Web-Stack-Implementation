@@ -3,3 +3,9 @@
 2. Now we need to put the folder in the root directory , so we have to copy the folder from local to server
 
 Ref video : https://www.youtube.com/watch?v=qnn8iVcXJxw. 
+
+3. copy the file in var/www/html
+
+4. Make the neccesary changes and the website is up 
+
+
